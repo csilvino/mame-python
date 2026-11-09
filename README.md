@@ -7,6 +7,14 @@ The first supported game is **Moon Patrol** (Irem, 1982), emulated bit-exact (Z8
 M6803 sound CPU with two AY-3-8910 and two MSM5205), plus an optional GPU-rendered HD mode and
 a "remake" look with redrawn graphics.
 
+## Demo
+
+[![Moon Patrol in the remake look](docs/demo.gif)](https://github.com/csilvino/mame-python/releases/download/demo-1/mpatrol_remake.mp4)
+
+**[Watch the 3-minute video (MP4, with sound)](https://github.com/csilvino/mame-python/releases/download/demo-1/mpatrol_remake.mp4)**:
+the bot playing Moon Patrol with the remake look (3D buggy and moon base, painted scenery,
+UFO trails, spinning Earth) and replacement music.
+
 ## Running
 
 ```

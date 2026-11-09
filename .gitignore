@@ -1,0 +1,18 @@
+# Copyrighted material: never in the repository
+roms/
+*.zip
+*.mp3
+# Generated from the ROMs (python tools/make_hdpack.py, python tools/remake/mpatrol_remake.py)
+hdpack/
+tools/remake/cache/
+videos/
+*.mp4
+# Local
+.venv/
+__pycache__/
+*.pyc
+.idea/
+backup_*/
+tools/legacy/*.png
+tools/legacy/program_rom_dump.txt
+tools/legacy/trace.txt

@@ -1,0 +1,5 @@
+numpy>=2.0
+pygame>=2.6
+moderngl>=5.10
+pillow>=10.0
+imageio-ffmpeg>=0.5     # only for tools/bot/mpatrol_video.py
